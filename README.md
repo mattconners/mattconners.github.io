@@ -3,11 +3,18 @@ I like finance, statistics, and machine learning. Over 20 years at Microsoft. Sk
 
 The purpose of this site is to share knowledge about how to do data science stuff.  It includes excellent repositories I've forked, and some work from myself. 
 
-## Doing Data Science
+### Doing Data Science
 
-### Python
+#### Python
 
-### Machine Learning
+#### Machine Learning
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
