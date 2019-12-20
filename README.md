@@ -8,14 +8,11 @@ The purpose of this site is to share knowledge about how to do data science stuf
 #### Python
 
 #### Machine Learning
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+
+[How Regression Works, Using Matrix Algebra](https://github.com/mattconners/mattconners.github.io/blob/master/RegressionusingMatrixAlgebra.html)
