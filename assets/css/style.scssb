@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header_wrap {
+    background: #3C4F6F;
+    border-style: solid;
+    border-size: 3px;
+    border-color: #fff;
+}
+
+#project_title {
+    margin: 0;
+    color: #fff;
+    font-size: 42px;
+    font-weight: 700;
+    text-shadow: #111 0px 0px 10px;
+}
+
+#footer_wrap {
+    background: #3C4F6F;
+}
+
+#header_wrap .inner {
+    padding: 10px 10px 10px 10px;
+}
