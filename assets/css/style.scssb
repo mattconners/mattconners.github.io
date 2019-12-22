@@ -13,6 +13,7 @@
     font-size: 42px;
     font-weight: 700;
     text-shadow: #111 0px 0px 10px;
+    font: sans-serif;
 }
 
 #footer_wrap {
