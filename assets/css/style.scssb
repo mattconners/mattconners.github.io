@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-    background: #3C4F6F;
+    background: linear-gradient(to top, #3C4F6F, #3C4F6F
 }
