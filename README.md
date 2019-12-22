@@ -8,7 +8,7 @@ The purpose of this site is to share what I have found helpful for learning how 
 No question that Python is eating the world. I started with R and SAS, but its all about Python now. I like:
 Introduction To Computer Science with Pyton, MIT's Edx course.
 * [Introduction To Computer Science with Pyton](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-* [Python for Data Analysis, by Wes McKinney](https://github.com/mattconners/pydata-book)
+* [Python for Data Analysis, by Wes McKinney](https://github.com/wesm/pydata-book)
 * [Python Data Science Handbook, by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
