@@ -20,11 +20,13 @@ The Python books above show you how to use Python, Sci-kit and other libraries t
 
 
 
-### Code Snippets - Getting things Done in Python - in progress
-  
-####  Data Wrangling
+### Code Snippets - Getting Things Done - in progress
 
-####  Visualization
+##### Getting Data
   
-####  Machine Learning
+#####  Wrangling Data
+
+#####  Visualizing Data
+  
+#####  Machine Learning
   
