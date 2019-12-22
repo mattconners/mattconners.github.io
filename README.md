@@ -16,16 +16,16 @@ Introduction To Computer Science with Pyton, MIT's Edx course.
 The Python books above show you how to use Python, Sci-kit and other libraries to do machine learning. However, to understand a couple of levels deeper
 
 * [Introduction to Statistical Learning - this book is exceptionally well written and accessible](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-* [Since Introduction to Statistical Learning is taught with R examples, check out this repository that has redone the labs and exercises in Python}(https://github.com/JWarmenhoven/ISLR-python)
+* [Since Introduction to Statistical Learning is taught with R examples, check out this repository that has redone the labs and exercises in Python](https://github.com/JWarmenhoven/ISLR-python)
 
 * [How Regression Works, Using Matrix Algebra - Python notebook with my explanation of how regression works, explained using Matrix Algebra ](https://github.com/mattconners/mattconners.github.io/blob/master/regression.html)
 
 
-### Code Snippets - Getting things Done in Python <pending>
+### Code Snippets - Getting things Done in Python - in progress
   
-  #####  Data Wrangling
+  ####  Data Wrangling
 
-  #####  Visualization
+  ####  Visualization
   
-  #####  Machine Learning
+  ####  Machine Learning
   
