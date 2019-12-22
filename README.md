@@ -15,4 +15,4 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
-[How Regression Works, Using Matrix Algebra](https://github.com/mattconners/mattconners.github.io/blob/master/RegressionusingMatrixAlgebra.html)
+[How Regression Works, Using Matrix Algebra](https://github.com/mattconners/mattconners.github.io/blob/master/regression.html)
