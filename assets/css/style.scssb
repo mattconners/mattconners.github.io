@@ -5,9 +5,7 @@
 
 #header_wrap {
     background: #3C4F6F;
-    border-style: solid;
-    border-size: 3px;
-    border-color: #fff;
+    border:1px solid #fff
 }
 
 #project_title {
