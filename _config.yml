@@ -1,4 +1,10 @@
 theme: jekyll-theme-slate
 
 title: mattconners.github.io
-description: Doing data science - some technical learning resources
+description: Doing data science -some technical learning resources
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
