@@ -2,10 +2,6 @@
 layout: default
 ---
 
-## Welcome to Matts md page
-
-_yay_
-
 # Least Squares Regression Solved with Matrix Algebra
 
 This is an explanation of Least Squares Regression solved using matrix algebra.  
