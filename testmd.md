@@ -1,5 +1,6 @@
 ---
 layout: default
+usemathjax: true
 ---
 
 ## Welcome to Matts md page
