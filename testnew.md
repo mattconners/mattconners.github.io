@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Welcome to Matts md page
-
-_yay_
-
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 <title>Regression using Matrix Algebra</title>
+	<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+</script>
+
     <!-- End of mathjax configuration --></head>
 <body>
   <div tabindex="-1" id="notebook" class="border-box-sizing">
