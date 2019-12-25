@@ -12,7 +12,7 @@ Python is the language I have focused on recently. I started my data sciences jo
 For a deeper understanding of what is going on under the hood, I like: 
 * The book <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/" rel="nofollow">Introduction to Statistical Learning</a> has a nice balance between practical knowledge and a deeper understanding of the theory. Just the right level for me and the language is very clear. Note, labs and exercises are in R.
 * The excellent Introduction to Statistical Learning is taught using R, but this <a href="https://github.com/JWarmenhoven/ISLR-python" rel="nofollow">Statstical Learning in Python</a> repository has done the labs and exercises in Python.
-* My description of <a href="https://mattconners.github.io/docs/regression.html"> How Regression Works- Using Matrix Algebra </a> - a Python notebook with a step-by-step explanation of how regression works, explained using Matrix Algebra.
+* My description of <a href="https://mattconners.github.io/RegressionusingMatrixAlgebra"> How Regression Works- Using Matrix Algebra </a> - a Python notebook with a step-by-step explanation of how regression works, explained using Matrix Algebra.
 
 ## Code Snippets - Getting Things Done - in progress
 
