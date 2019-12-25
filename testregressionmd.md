@@ -2,7 +2,7 @@
 	<head>
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Welcome to another page | Slate theme</title>
+
 <meta name="generator" content="Jekyll v3.8.5">
 <meta property="og:title" content="Welcome to another page">
 <meta property="og:locale" content="en_US">
@@ -14,7 +14,8 @@
 <script type="application/ld+json">
 {"@type":"WebPage","url":"https://pages-themes.github.io/slate/another-page.html","description":"Slate is a theme for GitHub Pages.","headline":"Welcome to another page","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<title>Regression using Matrix Algebra</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Regression using Matrix Algebra</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <style type="text/css">
@@ -11747,28 +11748,12 @@ div#notebook {
 }
 </style>
 <!-- Custom stylesheet, it must be in the same directory as the html file -->
-<link rel="stylesheet" href="custom.css">
 <!-- Loading mathjax macro -->
 <!-- Load mathjax -->
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-    <!-- MathJax configuration -->
-    <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-            processEscapes: true,
-            processEnvironments: true
-        },
-        // Center justify equations in code and markdown cells. Elsewhere
-        // we use CSS to left justify single line equations in code cells.
-        displayAlign: 'center',
-        "HTML-CSS": {
-            styles: {'.MathJax_Display': {"margin": 0}},
-            linebreaks: { automatic: true }
-        }
-    });
-    </script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+</script>
+
 
 
 
@@ -11789,8 +11774,6 @@ div#notebook {
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h2 id="welcome-to-another-page">Welcome to another page</h2>
-
-<p><em>yay</em></p>
 
 <p><a href="./">back</a></p>
   <div tabindex="-1" id="notebook" class="border-box-sizing">
@@ -12416,4 +12399,6 @@ The coefficients we calculated previously with matrix algebra are the same</pre>
     
   
 
-</body></html>
+</body>
+
+</html>
