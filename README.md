@@ -1,4 +1,4 @@
-The purpose of this site is to share some resources I have found helpful for learning how to do data sciences.  It includes some books, some excellent repositories, and some pieces I've written to help my understanding (in the spirit of "if you can't explain it you don't understand it). 
+The purpose of this site is to share some resources I have found helpful for learning how to do data sciences.  It includes some books, some excellent repositories, and some pieces I've written to help my understanding (in the spirit of "if you can't explain it you don't understand it"). 
 
 ## Doing Data Science
 
