@@ -1,8 +1,5 @@
-<html lang="en-US"><head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="/slate/assets/css/style.css?v=3593ff3c3afd545d9d2e891a851951e4953524f0">
+<html lang="en-US">
+	<head>
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
 <title>Welcome to another page | Slate theme</title>
