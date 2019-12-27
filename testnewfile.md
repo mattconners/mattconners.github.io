@@ -13,3 +13,33 @@ $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 |                                 |                                 |
 
 
+---------------------------------------------------------------------
+|                                 |                                 |
+|---------------------------------|---------------------------------|
+| this is a test                  |                                 |
+|                                 |                                 |
+|                                 |                                 |
+
+
+
+--------------------------------------------------------------------
+Column 1                                                Column 2
+------------------------------------------------------  ------------
+I want the contents of this cell to fit into one line   Word1 Word2
+
+
+
+| One    | Two | Three | Four    | Five  | Six 
+| -
+| Span <td colspan=3>triple  <td colspan=2>double
+  
+  
+  
+  | Can Reorder | 2nd operation |2nd operation |2nd operation |
+| :---: | --- |
+|1st operation|Normal Load <br/>Normal Store| Volatile Load <br/>MonitorEnter|Volatile Store<br/> MonitorExit|
+|Normal Load <br/> Normal Store| | | No|
+|Volatile Load <br/> MonitorEnter| No|No|No|
+|Volatile store <br/> MonitorExit| | No|No|
+  
+  
