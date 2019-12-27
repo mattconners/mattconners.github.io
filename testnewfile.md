@@ -43,3 +43,11 @@ I want the contents of this cell to fit into one line   Word1 Word2
 |Volatile store <br/> MonitorExit| | No|No|
   
   
+  multimarkdown -t html test.md > test.html
+ | Header ||
+|--------------|
+| 0 | 1 |
+
+
+
+  
