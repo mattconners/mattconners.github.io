@@ -2,8 +2,27 @@
 layout: default
 usemathjax: true
 ---
+---------------------------------------------------------------------
+|                                 |                                 |
+|---------------------------------|---------------------------------|
+| this is a test                  |  dfg                            |
+| rrrcrtcr                        | gcdfdgcdfgcfgcg                 |
+|ddddddd                          |  ddddddddddddd                  |
+
 
 $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$ 
+
+
+| Default aligned | Left aligned | Center aligned  | Right aligned  |
+|-----------------|:-------------|:---------------:|---------------:|
+| First body part | Second cell  | Third cell      | fourth cell    |
+| Second line     | foo          | **strong**      | baz            |
+| Third line      | quux         | baz             | bar            |
+| Second body     |              |                 |                |
+| 2nd line        |              |                 |                |
+| Third body      |              |                 | Foo            |
+
+
 
 
 |                                 |                                 |
@@ -28,7 +47,7 @@ Column 1                                                Column 2
 I want the contents of this cell to fit into one line   Word1 Word2
 
 
-
+--------------------------------------------------------------------
 | One    | Two | Three | Four    | Five  | Six 
 | -
 | Span <td colspan=3>triple  <td colspan=2>double
