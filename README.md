@@ -31,7 +31,7 @@ For a deeper understanding of what is going on under the hood, I like:
 <div class="div2">
     <ul>
         <li>Indices </li>
-        <li>Matrices - {}</li>
+        <li>Matrices </li>
     </ul>
    
   </div>
