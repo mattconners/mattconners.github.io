@@ -20,40 +20,28 @@ For a deeper understanding of what is going on under the hood, I like:
     
 
 ## Code Snippets - Getting Things Done - in progress
-<h1>Data Structures</h1>
-<div class="div1">
-    <h4>Left div</h4>
+<h4>Data Structures</h4>
+   <div class="div1">
+      <h6>Left div</h6>
         <ul>
-             <li>Lists (Arrays and Dataframes) - [] </li>
-            <li>Dictionary - {}</li>
+           <li>Lists (Arrays and Dataframes) - [] </li>
+           <li>Dictionary - {}</li>
         </ul>
     </div>
+    
     <div class="div2">
-        <h4>Right div</h4>
-        <ul>
+        <h6>Right div</h6>
+         <ul>
             <li>Indices </li>
            <li>Tables</li>
-       </ul>
+         </ul>
     </div>
 
 
 
 
 ##### Data Structures
-<div class="row">
-    <div class="column">
-        <ul>
-             <li>Lists (Arrays and Dataframes) - [] </li>
-            <li>Dictionary - {}</li>
-        </ul>
-    </div>
-    <div class="column">
-        <ul>
-            <li>Indices </li>
-           <li>Tables</li>
-       </ul>
-    </div>
-</div>
+
 
 ##### Getting Data
 <table style="width:100%">
