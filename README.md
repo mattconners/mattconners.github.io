@@ -21,14 +21,20 @@ For a deeper understanding of what is going on under the hood, I like:
 
 ## Code Snippets - Getting Things Done - in progress
 ##### Data Structures
-   <div class="div1">
+<div class="div1">
+    <ul>
+        <li>Lists (Arrays and Dataframes) - [] </li>
+        <li>Dictionary - {}</li>
+    </ul>
+</div>
 
-           Lists (Arrays and Dataframes) - [] 
-       Dictionary - {}
+<div class="div2">
+    <ul>
+        <li>Indices </li>
+        <li>Tables</li>
+    </ul>
+</div>
 
-    </div>
-          Indices
-          Dataframes
 ##### Getting Data
 <table style="width:100%" border-style: none>
 
