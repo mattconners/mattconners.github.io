@@ -42,22 +42,9 @@ For a deeper understanding of what is going on under the hood, I like:
 
 ##### Data Structures
 <h4>Data Structures</h4>
-   <div class="div1">
-      <h6>Left div</h6>
-        <ul>
-           <li>Lists (Arrays and Dataframes) - [] </li>
-           <li>Dictionary - {}</li>
-        </ul>
-    </div>
-    
-test
-        <ul>
-           <li>Lists (Arrays and Dataframes) - [] </li>
-           <li>Dictionary - {}</li>
-        </ul>
 
 ##### Getting Data
-<table style="width:100%">
+<table style="width:100%" border-style: none>
 
   <tr>
     <td>Getting data from files, web etc</td>
