@@ -2,7 +2,8 @@ theme: jekyll-theme-slate
 
 title: mattconners.github.io
 description: Doing data science  - some technical learning resources
-mathjax: "true"
+kramdown:
+  math_engine: mathjax
 defaults:
   -
     scope:
