@@ -20,8 +20,59 @@ For a deeper understanding of what is going on under the hood, I like:
     
 
 ## Code Snippets - Getting Things Done - in progress
+<h1>Data Structures</h1>
+<div class="div1">
+    <h4>Left div</h4>
+        <ul>
+             <li>Lists (Arrays and Dataframes) - [] </li>
+            <li>Dictionary - {}</li>
+        </ul>
+    </div>
+    <div class="div2">
+        <h4>Right div</h4>
+        <ul>
+            <li>Indices </li>
+           <li>Tables</li>
+       </ul>
+    </div>
+</div>
+
+
+
+
+##### Data Structures
+<div class="row">
+    <div class="column">
+        <ul>
+             <li>Lists (Arrays and Dataframes) - [] </li>
+            <li>Dictionary - {}</li>
+        </ul>
+    </div>
+    <div class="column">
+        <ul>
+            <li>Indices </li>
+           <li>Tables</li>
+       </ul>
+    </div>
+</div>
 
 ##### Getting Data
+<table style="width:100%">
+
+  <tr>
+    <td>Getting data from files, web etc</td>
+    <td>Adding Columns, Rows</td>
+  </tr>
+  <tr>
+    <td>Adding, deleting rows</td>
+    <td>JAdding deleting columns</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Doe</td>
+  </tr>
+</table>
+
   
 #####  Wrangling Data
 
