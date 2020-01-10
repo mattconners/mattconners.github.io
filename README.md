@@ -29,11 +29,8 @@ For a deeper understanding of what is going on under the hood, I like:
 </div>
 
 <div class="div2">
-    <ul>
-        <li>Indices </li>
-        <li>Tables</li>
-    </ul>
-</div>
+    Indices
+    Tables</div>
 
 ##### Getting Data
 <table style="width:100%" border-style: none>
