@@ -22,15 +22,11 @@ For a deeper understanding of what is going on under the hood, I like:
 ## Code Snippets - Getting Things Done - in progress
 <h4>Data Structures</h4>
    <div class="div1">
-      <h6>Left div</h6>
         <ul>
            <li>Lists (Arrays and Dataframes) - [] </li>
            <li>Dictionary - {}</li>
         </ul>
     </div>
-    
-    <div class="div2">
-        <h6>Right div</h6>
          <ul>
             <li>Indices </li>
            <li>Tables</li>
@@ -41,7 +37,6 @@ For a deeper understanding of what is going on under the hood, I like:
 
 
 ##### Data Structures
-<h4>Data Structures</h4>
 
 ##### Getting Data
 <table style="width:100%" border-style: none>
