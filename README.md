@@ -27,36 +27,60 @@ For a deeper understanding of what is going on under the hood, I like:
            <li>Dictionary - {}</li>
         </ul>
     </div>
-          Indices
-           Tables
-
-
-
-
-
-
+          <p>Indices</p>
+          <p>Dataframes</p>
 
 ##### Getting Data
 <table style="width:100%" border-style: none>
 
   <tr>
-    <td>Getting data </td>
-    <td>Adding Columns, Rows</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Adding, deleting rows</td>
-    <td>Adding deleting columns</td>
+    <td></td>
+    <td></td>
   </tr>
-  <tr>
-    <td>sdsd</td>
-    <td>Doe</td>
-  </tr>
+
 </table>
 
   
 #####  Wrangling Data
+<table style="width:100%" border-style: none>
 
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+
+</table>
 #####  Visualizing Data
-  
+  <table style="width:100%" border-style: none>
+
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+
+</table>
 #####  Machine Learning
-  
+  <table style="width:100%" border-style: none>
+
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+
+</table>
