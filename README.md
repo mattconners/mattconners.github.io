@@ -42,15 +42,15 @@ For a deeper understanding of what is going on under the hood, I like:
 <table style="width:100%" border-style: none>
 
   <tr>
-    <td>Getting data from files, web etc</td>
+    <td>Getting data </td>
     <td>Adding Columns, Rows</td>
   </tr>
   <tr>
     <td>Adding, deleting rows</td>
-    <td>JAdding deleting columns</td>
+    <td>Adding deleting columns</td>
   </tr>
   <tr>
-    <td></td>
+    <td>sdsd</td>
     <td>Doe</td>
   </tr>
 </table>
