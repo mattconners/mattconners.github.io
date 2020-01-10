@@ -58,6 +58,7 @@ For a deeper understanding of what is going on under the hood, I like:
   </tr>
 
 </table>
+
 #####  Visualizing Data
   <table style="width:100%" border-style: none>
 
@@ -71,6 +72,7 @@ For a deeper understanding of what is going on under the hood, I like:
   </tr>
 
 </table>
+
 #####  Machine Learning
   <table style="width:100%" border-style: none>
 
