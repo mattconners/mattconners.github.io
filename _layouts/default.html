@@ -9,11 +9,7 @@
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
 </script>
-    {% if page.usemathjax %}
-<script type="text/javascript" async
- src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
-{% end if %}
+
 
     
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -32,6 +28,11 @@
   <body>
 
     <!-- HEADER -->
+        {% if page.usemathjax %}
+<script type="text/javascript" async
+ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+{% end if %}
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% if site.github.is_project_page %}
