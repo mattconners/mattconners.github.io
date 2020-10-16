@@ -21,7 +21,7 @@ For a deeper understanding of what is going on under the hood, I like:
 <a href="https://mattconners.github.io/docs/regression.html"> TEST html file in docs folder</a>
 <a href="https://mattconners.github.io/mdtest.md"> TEST md file in main folder</a>
 <a href="https://github.com/mattconners/mattconners.github.io/blob/master/docs/docstest.md"> TEST md file in doc folder url with blob copied</a>
-<a href="https://mattconners.github.io/docstest.md.md"> TEST md file in main folder - direct url</a>
+<a href="https://mattconners.github.io/docstest.md"> TEST md file in main folder - direct url</a>
 
 
 
