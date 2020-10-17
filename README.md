@@ -17,7 +17,7 @@ For a deeper understanding of what is going on under the hood, I like:
     * How K-means Clustering Works  - in progress
     * How Decision Tree Classification works - in progress
     * How Random Forest Regression Works - in progress 
-
+<div>
 ## Code Snippets - Getting Things Done - in progress
 ##### Data Structures
 <div class="div1">
@@ -100,3 +100,4 @@ For a deeper understanding of what is going on under the hood, I like:
     </ul>
    
   </div>
+</div>
