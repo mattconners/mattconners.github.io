@@ -36,14 +36,14 @@ For a deeper understanding of what is going on under the hood, I like:
   </div>
 
 ##### Getting Data
-<div class="div3">
+<div class="div1">
     <ul>
         <li>Reading data</li>
         <li>Writing data</li>
     </ul>
 </div>
 
-<div class="div4">
+<div class="div2">
     <ul>
         <li>Reading data </li>
         <li>Transforming Columns </li>
