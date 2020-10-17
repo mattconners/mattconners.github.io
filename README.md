@@ -39,7 +39,7 @@ For a deeper understanding of what is going on under the hood, I like:
 <div class="div3">
     <ul>
         <li>Reading data</li>
-        <li>Writing data/li>
+        <li>Writing data</li>
     </ul>
 </div>
 
