@@ -38,7 +38,7 @@ For a deeper understanding of what is going on under the hood, I like:
 ##### Getting Data
 <div class="div3">
     <ul>
-        <li>Reading data</a></li>
+        <li>Reading data</li>
         <li>Writing data/li>
     </ul>
 </div>
