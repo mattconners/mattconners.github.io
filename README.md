@@ -49,12 +49,12 @@ For a deeper understanding of what is going on under the hood, I like:
 </thead>
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">Pandas</td>
+<td markdown="span"><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
+<td markdown="span">Subsetting Data</td>
+<td markdown="span"><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></td>
 </td>
 </tr>
 </tbody>
