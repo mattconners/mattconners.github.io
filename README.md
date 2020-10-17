@@ -54,14 +54,14 @@ For a deeper understanding of what is going on under the hood, I like:
 
   
 #####  Wrangling Data
-<div class="div5">
+<div class="div1">
     <ul>
         <li><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></li>
         <li><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></li>
     </ul>
 </div>
 
-<div class="div6">
+<div class="div2">
     <ul>
         <li>Transforming shape of data </li>
         <li>Transforming columns </li>
@@ -70,14 +70,14 @@ For a deeper understanding of what is going on under the hood, I like:
   </div>
 
 #####  Visualizing Data
-<div class="div7">
+<div class="div1">
     <ul>
         <li>Matplotlib basics</li>
         <li>Panel of plots</li>
     </ul>
 </div>
 
-<div class="div8">
+<div class="div2">
     <ul>
         <li>Seaborn basics</li>
         <li>Set styles</li>
@@ -86,14 +86,14 @@ For a deeper understanding of what is going on under the hood, I like:
   </div>
 
 #####  Machine Learning
-<div class="div9">
+<div class="div1">
     <ul>
         <li>Set up training and test sets</li>
         <li>Classiciation in scikit</li>
     </ul>
 </div>
 
-<div class="div10">
+<div class="div2">
     <ul>
         <li>Regression methhods </li>
         <li>Clustering </li>
