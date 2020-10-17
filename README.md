@@ -101,5 +101,6 @@ For a deeper understanding of what is going on under the hood, I like:
    
   </div>
   
- <div> 
-</div>
+
+
+<div class="footer sticky-footer">This footer will always be positioned at the bottom of the page, but <strong>not fixed</strong>.</div>
