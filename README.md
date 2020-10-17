@@ -36,80 +36,67 @@ For a deeper understanding of what is going on under the hood, I like:
   </div>
 
 ##### Getting Data
-<table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>I want to</th>
-<th>Snippet</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">Pandas</td>
-<td markdown="span"><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></td>
-</tr>
-<tr>
-<td markdown="span">Subsetting Data</td>
-<td markdown="span"><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></td>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="div1">
+    <ul>
+        <li>Reading data</a></li>
+        <li>Writing data/li>
+    </ul>
+</div>
+
+<div class="div2">
+    <ul>
+        <li>Reading data </li>
+        <li>Transforming Columns </li>
+    </ul>
+   
+  </div>
+
 
   
 #####  Wrangling Data
-<table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-</tr>
-<tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
-</tr>
-</tbody>
-</table>
+<div class="div1">
+    <ul>
+        <li><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></li>
+        <li><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></li>
+    </ul>
+</div>
+
+<div class="div2">
+    <ul>
+        <li>Transforming shape of data </li>
+        <li>Transforming columns </li>
+    </ul>
+   
+  </div>
 
 #####  Visualizing Data
-  <table style="width:100%" border-style: none>
+<div class="div1">
+    <ul>
+        <li>Matplotlib basics</li>
+        <li>Panel of plots</li>
+    </ul>
+</div>
 
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-
-</table>
+<div class="div2">
+    <ul>
+        <li>Seaborn basics</li>
+        <li>Set styles</li>
+    </ul>
+   
+  </div>
 
 #####  Machine Learning
-  <table style="width:100%" border-style: none>
+<div class="div1">
+    <ul>
+        <li>Set up training and test sets</li>
+        <li>Classiciation in scikit</li>
+    </ul>
+</div>
 
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-
-</table>
+<div class="div2">
+    <ul>
+        <li>Regression methhods </li>
+        <li>Clustering </li>
+    </ul>
+   
+  </div>
