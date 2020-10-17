@@ -104,6 +104,9 @@ For a deeper understanding of what is going on under the hood, I like:
 
   <div class="footer sticky-footer">  
    <br />
+      <br />
+      <br />
+      <br />
   </div>
 
 
