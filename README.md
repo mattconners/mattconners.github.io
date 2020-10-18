@@ -13,35 +13,37 @@ For a deeper understanding of what is going on under the hood, I like:
 * The book <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/" rel="nofollow">Introduction to Statistical Learning</a> is just excellent. Clear explanations of how ML works and practical examples in R. 
 * This excellent repository <a href="https://github.com/JWarmenhoven/ISLR-python" rel="nofollow">Statstical Learning in Python</a>  has redone the labs and exercises in Python.
 * Some articles I've written:
-    * <a href="https://mattconners.github.io/RegressionusingMatrixAlgebra"> How Regression Works- Using Matrix Algebra </a> - a Python notebook with a step-by-step explanation of how regression works, explained using Matrix Algebra.
-    * How K-means Clustering Works  - in progress
-    * How Decision Tree Classification works - in progress
-    * How Random Forest Regression Works - in progress 
+    * <a href="https://mattconners.github.io/RegressionusingMatrixAlgebra"> How Regression Works- Using Matrix Algebra </a> - a Python notebook description of regression, explained using Matrix Algebra.
+    * How K-means Clustering Works
+    * How Decision Tree Classification works
+    * How Random Forest Regression Works 
 
-## Code Snippets - Getting Things Done - in progress
+## Getting Things Done in Python - Code Snippets
 <br>
 
 
-
-##### Data Structures
+#### Data Types and Structures
 <hr>
 <div class="div1">
     <ul>
+        <li>Data Types </li>
         <li>Lists (Arrays and Dataframes) - [] </li>
         <li>Dictionary - {}</li>
+         <li>Indices </li>
     </ul>
 </div>
 
 <div class="div2">
     <ul>
-        <li>Indices </li>
-        <li>Matrices </li>
+        <li>Vectors </li>
+        <li>Arrays </li>
+        <li>Matrices </li>              
     </ul>
    
   </div>
 
 
-##### Getting Data
+#### Getting Data
 <hr>
 <div class="div1">
     <ul>
@@ -55,30 +57,38 @@ For a deeper understanding of what is going on under the hood, I like:
         <li>Reading data </li>
         <li>Transforming Columns </li>
     </ul>
-   
+  
   </div>
 
 
 
-#####  Wrangling Data
+####  Wrangling Data
 <hr>
 <div class="div1">
     <ul>
-        <li><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></li>
-        <li><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></li>
+       <li><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></li>
+       <li>Missing Data </li>
+       <li> Outliers</li>
+       <li><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></li>
+       <li>Grouping Data</li>
+       <li>Transforming columns </li>
     </ul>
 </div>
 
 <div class="div2">
     <ul>
-        <li>Transforming shape of data </li>
-        <li>Transforming columns </li>
+        <li> Preprocessing categorical data</li>
+       <li>Transforming the shape of data </li>
+       <li>Normalizating Data</li>
+       <li>Discretiizing data</li>
+      <li> One Hot Encoding</li>
+       
     </ul>
    
   </div>
 
 
-#####  Visualizing Data
+####  Visualizing Data
 <hr>
 <div class="div1">
     <ul>
@@ -96,7 +106,7 @@ For a deeper understanding of what is going on under the hood, I like:
   </div>
 
 
-#####  Machine Learning
+####  Machine Learning
 <hr>
 <div class="div1">
     <ul>
