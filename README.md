@@ -20,7 +20,6 @@ For a deeper understanding of what is going on under the hood:
     * How Random Forest Regression Works 
 
 ## Getting Things Done in Python - Code Snippets
-<br>
 
 #### Data Types and Structures
 <hr>
