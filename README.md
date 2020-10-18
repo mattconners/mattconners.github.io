@@ -9,11 +9,12 @@ I started my data sciences journey with R and SAS, but its all about Python now.
 * Python Data Science Handbook, by Jake VanderPlas <a href="https://jakevdp.github.io/PythonDataScienceHandbook/" rel="nofollow"> book and code repository</a>
 
 #### Machine Learning
-For a deeper understanding of what is going on under the hood, I like: 
-* The book <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/" rel="nofollow">Introduction to Statistical Learning</a> is just excellent. Clear explanations of how ML works and practical examples in R. 
-* This excellent repository <a href="https://github.com/JWarmenhoven/ISLR-python" rel="nofollow">Statstical Learning in Python</a>  has redone the labs and exercises in Python.
+For a deeper understanding of what is going on under the hood: 
+* The book <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/" rel="nofollow">Introduction to Statistical Learning</a> is just excellent. <br>Clear explanations of how ML works and practical examples in R. 
+* <a href="https://github.com/JWarmenhoven/ISLR-python" rel="nofollow">Statstical Learning in Python repo</a> <br> Has redone Introduction to Statistical Learning labs and exercises in Python.
 * Some articles I've written:
-    * <a href="https://mattconners.github.io/RegressionusingMatrixAlgebra"> How Regression Works- Using Matrix Algebra </a> - a Python notebook description of regression, explained using Matrix Algebra.
+    * <a href="https://mattconners.github.io/RegressionusingMatrixAlgebra"> How Regression Works- Using Matrix Algebra </a> <br> 
+    A Python notebook explaining how regression works, explained using Matrix Algebra.
     * How K-means Clustering Works
     * How Decision Tree Classification works
     * How Random Forest Regression Works 
@@ -30,15 +31,16 @@ For a deeper understanding of what is going on under the hood, I like:
         <li>Lists (Arrays and Dataframes)</li>
         <li>Dictionaries</li>
        <li> Tuples</li>
+       <li>Sets</li>
     </ul>
 </div>
 
 <div class="div2">
     <ul>
-       <li>Sets</li>
         <li>Vectors </li>
          <li>Indices </li>
-        <li>Matrices </li>              
+        <li>Matrices </li>   
+       <li>Comprehensions in Python>
     </ul>
    
   </div>
