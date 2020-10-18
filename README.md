@@ -49,16 +49,16 @@ For a deeper understanding of what is going on under the hood, I like:
     <ul>
         <li>If-else</li>
         <li>For Loops</li>
-        <li>While Loops</li>
+
     </ul>
 </div>
 
 <div class="div2">
     <ul>
-       <li>Loop control statements</li>      
+      <li>While Loops</li>
+      <li>Loop control statements</li>
     </ul>
-   
-  </div>
+</div>
 
 ####  Wrangling Data
 <hr>
