@@ -91,7 +91,7 @@ For a deeper understanding of what is going on under the hood, I like:
 <hr>
 <div class="div1">
     <ul>
-       <li>Pandas Date-Time Preparation </li>
+       <li>Pandas Date-Times </li>
        <li>Create time lags</li>
        <li>Subsetting date-times</li>
     </ul>
