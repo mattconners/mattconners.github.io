@@ -40,7 +40,7 @@ For a deeper understanding of what is going on under the hood:
         <li>Vectors </li>
          <li>Indices </li>
         <li>Matrices </li>   
-       <li>Comprehensions in Python>
+       <li>Comprehensions in Python</li> 
     </ul>
    
   </div>
