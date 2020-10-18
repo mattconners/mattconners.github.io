@@ -22,8 +22,9 @@ For a deeper understanding of what is going on under the hood, I like:
 <br>
 
 
-<hr>
+
 ##### Data Structures
+<hr>
 <div class="div1">
     <ul>
         <li>Lists (Arrays and Dataframes) - [] </li>
@@ -39,8 +40,9 @@ For a deeper understanding of what is going on under the hood, I like:
    
   </div>
 
-<hr>
+
 ##### Getting Data
+<hr>
 <div class="div1">
     <ul>
         <li>Reading data</li>
@@ -57,8 +59,9 @@ For a deeper understanding of what is going on under the hood, I like:
   </div>
 
 
-<hr> 
+
 #####  Wrangling Data
+<hr>
 <div class="div1">
     <ul>
         <li><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></li>
@@ -74,8 +77,9 @@ For a deeper understanding of what is going on under the hood, I like:
    
   </div>
 
-<hr>
+
 #####  Visualizing Data
+<hr>
 <div class="div1">
     <ul>
         <li>Matplotlib basics</li>
@@ -91,8 +95,9 @@ For a deeper understanding of what is going on under the hood, I like:
    
   </div>
 
-<hr>
+
 #####  Machine Learning
+<hr>
 <div class="div1">
     <ul>
         <li>Set up training and test sets</li>
