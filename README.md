@@ -27,8 +27,8 @@ For a deeper understanding of what is going on under the hood, I like:
 <div class="div1">
     <ul>
         <li>Data Types </li>
-        <li>Lists (Arrays and Dataframes) - [] </li>
-        <li>Dictionaries - {}</li>
+        <li>Lists (Arrays and Dataframes)</li>
+        <li>Dictionaries</li>
        <li> Tuples</li>
     </ul>
 </div>
@@ -80,6 +80,8 @@ For a deeper understanding of what is going on under the hood, I like:
        <li>Normalizating Data</li>
        <li>Discretizing data</li>
       <li> One Hot Encoding</li>
+       <li> </li>      
+       <li> </li>   
     </ul>
    
   </div>
