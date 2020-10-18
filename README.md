@@ -49,7 +49,6 @@ For a deeper understanding of what is going on under the hood, I like:
     <ul>
         <li>If-else</li>
         <li>For Loops</li>
-
     </ul>
 </div>
 
@@ -70,18 +69,17 @@ For a deeper understanding of what is going on under the hood, I like:
        <li><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></li>
        <li>Grouping Data</li>
        <li>Transforming columns </li>
+       <li> Joining data sets</li>
     </ul>
 </div>
 
 <div class="div2">
     <ul>
-       <li> Joining data sets</li>
         <li> Preprocessing categorical data</li>
        <li>Transforming the shape of data </li>
        <li>Normalizating Data</li>
        <li>Discretizing data</li>
       <li> One Hot Encoding</li>
-       
     </ul>
    
   </div>
@@ -102,7 +100,6 @@ For a deeper understanding of what is going on under the hood, I like:
         <li>Autocorrelation</li>
         <li>Partial Autocorrelation</li>
        <li>Cross Correlation </li>
-       
     </ul>
    
   </div>
