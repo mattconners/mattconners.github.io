@@ -13,7 +13,7 @@ For a deeper understanding of what is going on under the hood:
 * The book <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/" rel="nofollow">Introduction to Statistical Learning</a> is just excellent. <br>Clear explanations of how ML works and practical examples in R. 
 * <a href="https://github.com/JWarmenhoven/ISLR-python" rel="nofollow">Statstical Learning in Python repo</a> <br> Has redone Introduction to Statistical Learning labs and exercises in Python.
 * Some articles I've written:
-    * <a href="https://mattconners.github.io/RegressionusingMatrixAlgebra"> How Regression Works- Using Matrix Algebra </a> <br> 
+    * <a href="https://mattconners.github.io/docs/RegressionusingMatrixAlgebra"> How Regression Works- Using Matrix Algebra </a> <br> 
     A Python notebook explaining how regression works, explained using Matrix Algebra.
     * How K-means Clustering Works
     * How Decision Tree Classification works
@@ -64,7 +64,7 @@ For a deeper understanding of what is going on under the hood:
 <hr>
 <div class="div1">
     <ul>
-       <li><a href="https://mattconners.github.io/docs/pandasmd">Reading and writing Data</a></li>
+       <li><a href="https://mattconners.github.io/docs/Pandas">Reading and writing Data</a></li>
        <li>Missing Data </li>
        <li> Outliers</li>
        <li><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></li>
