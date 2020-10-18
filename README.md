@@ -19,10 +19,11 @@ For a deeper understanding of what is going on under the hood, I like:
     * How Random Forest Regression Works - in progress 
 
 ## Code Snippets - Getting Things Done - in progress
-<hr><br />
-
-##### Data Structures
 <hr>
+<br>
+
+<hr>
+##### Data Structures
 <div class="div1">
     <ul>
         <li>Lists (Arrays and Dataframes) - [] </li>
@@ -38,8 +39,8 @@ For a deeper understanding of what is going on under the hood, I like:
    
   </div>
 
-##### Getting Data
 <hr>
+##### Getting Data
 <div class="div1">
     <ul>
         <li>Reading data</li>
@@ -56,9 +57,8 @@ For a deeper understanding of what is going on under the hood, I like:
   </div>
 
 
-  
+<hr> 
 #####  Wrangling Data
-<hr>
 <div class="div1">
     <ul>
         <li><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></li>
@@ -74,8 +74,8 @@ For a deeper understanding of what is going on under the hood, I like:
    
   </div>
 
-#####  Visualizing Data
 <hr>
+#####  Visualizing Data
 <div class="div1">
     <ul>
         <li>Matplotlib basics</li>
@@ -91,8 +91,8 @@ For a deeper understanding of what is going on under the hood, I like:
    
   </div>
 
-#####  Machine Learning
 <hr>
+#####  Machine Learning
 <div class="div1">
     <ul>
         <li>Set up training and test sets</li>
