@@ -28,45 +28,43 @@ For a deeper understanding of what is going on under the hood, I like:
     <ul>
         <li>Data Types </li>
         <li>Lists (Arrays and Dataframes) - [] </li>
-        <li>Dictionary - {}</li>
-         <li>Indices </li>
+        <li>Dictionaries - {}</li>
+       <li> Tuples</li>
     </ul>
 </div>
 
 <div class="div2">
     <ul>
+       <li>Sets</>
         <li>Vectors </li>
-        <li>Arrays </li>
+         <li>Indices </li>
         <li>Matrices </li>              
     </ul>
    
   </div>
 
-
-#### Getting Data
+####  Control Flow
 <hr>
 <div class="div1">
     <ul>
-        <li>Reading data</li>
-        <li>Writing data</li>
+        <li>If-else</li>
+        <li>For Loops</li>
+        <li>While Loops</li>
     </ul>
 </div>
 
 <div class="div2">
     <ul>
-        <li>Reading data </li>
-        <li>Transforming Columns </li>
+       <li>Loop control statements</li>      
     </ul>
-  
+   
   </div>
-
-
 
 ####  Wrangling Data
 <hr>
 <div class="div1">
     <ul>
-       <li><a href="https://mattconners.github.io/docs/pandasmd"> Pandas Basics </a></li>
+       <li><a href="https://mattconners.github.io/docs/pandasmd">Reading and writing Data</a></li>
        <li>Missing Data </li>
        <li> Outliers</li>
        <li><a href="https://mattconners.github.io/docs/Subsetting_Data"> Subsetting Data </a></li>
@@ -77,16 +75,37 @@ For a deeper understanding of what is going on under the hood, I like:
 
 <div class="div2">
     <ul>
+       <li> Joining data sets</li>
         <li> Preprocessing categorical data</li>
        <li>Transforming the shape of data </li>
        <li>Normalizating Data</li>
-       <li>Discretiizing data</li>
+       <li>Discretizing data</li>
       <li> One Hot Encoding</li>
        
     </ul>
    
   </div>
 
+
+####  Time Series
+<hr>
+<div class="div1">
+    <ul>
+       <li>Pandas Date-Time Preparation </li>
+       <li>Create time lags</li>
+       <li>Subsetting date-times</li>
+    </ul>
+</div>
+
+<div class="div2">
+    <ul>
+        <li>Autocorrelation</li>
+        <li>Partial Autocorrelation</li>
+       <li>Cross Correlation </li>
+       
+    </ul>
+   
+  </div>
 
 ####  Visualizing Data
 <hr>
