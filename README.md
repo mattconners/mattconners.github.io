@@ -111,7 +111,7 @@ For a deeper understanding of what is going on under the hood, I like:
 <div class="div1">
     <ul>
         <li>Set up training and test sets</li>
-        <li>Classiciation in scikit</li>
+        <li>Classification in scikit</li>
     </ul>
 </div>
 
