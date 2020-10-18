@@ -19,8 +19,8 @@ For a deeper understanding of what is going on under the hood, I like:
     * How Random Forest Regression Works - in progress 
 
 ## Code Snippets - Getting Things Done - in progress
-<hr>
 <br>
+
 
 <hr>
 ##### Data Structures
