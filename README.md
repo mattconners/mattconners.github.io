@@ -80,8 +80,8 @@ For a deeper understanding of what is going on under the hood, I like:
        <li>Normalizating Data</li>
        <li>Discretizing data</li>
       <li> One Hot Encoding</li>
-       <li> </li>      
-       <li> </li>   
+       <br>
+       <br>
     </ul>
    
   </div>
