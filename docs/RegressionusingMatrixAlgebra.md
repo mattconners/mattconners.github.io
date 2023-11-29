@@ -10,6 +10,9 @@ y = the number of units sold
 x = price per unit  
 The data shows that when prices are high, the quantity sold is low, and when prices are low the quantity sold is high.
 
+$$
+\frac{d}{dx} \left( \int_{a}^{x} f(u)\,du\right)=f(x)
+$$
 
 ```R
 x <- c(6,7,9,10,11,12,14,18,26) # of promotions
