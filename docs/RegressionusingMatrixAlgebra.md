@@ -2,7 +2,9 @@
 # Least Squares Regression Solved with Matrix Algebra
 
 This is an explanation of Least Squares Regression solved using matrix algebra.  
+
 $f(x)=\beta_0 + \beta_1x$
+
 ### Some sample data  
 Let's start with a simple set of data for sales and price  
 y = the number of units sold  
