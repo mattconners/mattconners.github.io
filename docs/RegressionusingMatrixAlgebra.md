@@ -10,10 +10,6 @@ y = the number of units sold
 x = price per unit  
 The data shows that when prices are high, the quantity sold is low, and when prices are low the quantity sold is high.
 
-$$
-\frac{d}{dx} \left( \int_{a}^{x} f(u)\,du\right)=f(x)
-$$
-
 ```R
 x <- c(6,7,9,10,11,12,14,18,26) # of promotions
 y <- c(170,221,264,308,444,540,388,677,711) #revenue
@@ -22,8 +18,8 @@ y <- c(170,221,264,308,444,540,388,677,711) #revenue
 ### Least squares regression equation  
 
 
-for points $$(x_1,y_1), (x_2,y_2)...(x_n,y_n)$$  the least square regression line is:  
-$$f(x)=\beta_0 + \beta_1x$$    
+for points $(x_1,y_1), (x_2,y_2)...(x_n,y_n)$  the least square regression line is:  
+$f(x)=\beta_0 + \beta_1x$$   
 
 The errors (also referred to as residuals) are the difference bdtween the actual quantity sold and the regression estimate of the quantity sold. They are    
 $e_i=y_i-f(x_i)$ 
@@ -52,6 +48,9 @@ y_2\\
 \vdots\\  
 y_n
 \end{array}\right]$  This is an N x 1 matrix
+
+$Y = \left[\begin{array}{ccc} y_1 & y_2 & \cdots & y_n \end{array}\right]$
+
 
 $X = \left[\begin{array} {rrr}
 1 &amp; x_1\\
