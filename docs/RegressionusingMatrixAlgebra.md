@@ -42,10 +42,11 @@ $y_n = (b + mx_n) + e_n$
 --- 
 ## Single variable regression represented in matrix form  
 We can represent our x and y data in matrix form  
+
 $Y = \left[\begin{array}{rrr}
 y_1\\
-y_2\\
-\vdots\\
+y_2\\  
+\vdots\\  
 y_n
 \end{array}\right]$  This is an N x 1 matrix
 
