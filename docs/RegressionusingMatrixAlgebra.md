@@ -2,7 +2,7 @@
 # Least Squares Regression Solved with Matrix Algebra
 
 This is an explanation of Least Squares Regression solved using matrix algebra.  
-
+$E=mc^2$
 
 ### Some sample data  
 Let's start with a simple set of data for sales and price  
