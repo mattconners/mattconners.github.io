@@ -5,9 +5,9 @@ This is an explanation of Least Squares Regression solved using matrix algebra.
 
 $f(x)=\beta_0 + \beta_1x$
 
-{% raw %}
-$f(x) = \beta_0 + \beta_1x$
-{% endraw %}
+$f(x)=\beta\_0 + \beta\_1x$
+
+$$f(x)=\beta_0 + \beta_1x$$
 
 ### Some sample data  
 Let's start with a simple set of data for sales and price  
