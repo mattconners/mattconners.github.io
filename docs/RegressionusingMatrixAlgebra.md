@@ -51,10 +51,10 @@ y_n \\
 \end{bmatrix}$$  This is an N x 1 matrix
 
 $$Y = \begin{bmatrix}
-1 &amp; x_1\\
-1 &amp; x_2\\  
+1 ; x_1\\
+1 ; x_2\\  
 \vdots\\    
-1 &amp; x_n \\
+1 ; x_n \\
 \end{bmatrix}$$  This is an N x 2 matrix
 
 
