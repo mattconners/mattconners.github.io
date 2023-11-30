@@ -57,6 +57,13 @@ y_2\\
 y_n
 \end{array}\right]$  This is an N x 1 matrix
 
+$Y = \left[\begin{array}{rrr}
+y_1\\
+y_2\\  
+. . .\\  
+y_n
+\end{array}\right]$  This is an N x 1 matrix
+
 $Y = \left[\begin{array}{ccc} y_1 & y_2 & \cdots & y_n \end{array}\right]$
 
 
