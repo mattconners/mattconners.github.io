@@ -102,7 +102,7 @@ This equation results in a row vector
 
 $$Y = \begin{bmatrix}
 4 & 6 & 3
-\end{bmatrix}$$
+\end{bmatrix}$$   Row vector
 
 multiplied by a column vector
 
@@ -110,7 +110,7 @@ $$Y = \begin{bmatrix}
 4 \\
 6 \\
 3 \\
-\end{bmatrix}$$
+\end{bmatrix}$$ Column vector
 
 
 Resulting in 4x4 + 6x6 + 3x3  which is what we want: the sum of the squared errors.
