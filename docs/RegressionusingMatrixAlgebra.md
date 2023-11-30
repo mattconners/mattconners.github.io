@@ -3,12 +3,6 @@
 
 This is an explanation of Least Squares Regression solved using matrix algebra.  
 
-$f(x)=\beta_0 + \beta_1x$
-
-$f(x)=\beta\_0 + \beta\_1x$
-
-$$f(x)=\beta_0 + \beta_1x$$
-
 ### Some sample data  
 Let's start with a simple set of data for sales and price  
 y = the number of units sold  
@@ -40,7 +34,7 @@ We can set this up as a system of equations and then solve using matrices
 $y_1 = (b + mx_1) + e_1$  
 $y_2 = (b + mx_2) + e_2$  
 ...  
-$y_n = (b + mx_n) + e_n$   
+$y_n = (b + mx_n) + e_n$
 
 
 
