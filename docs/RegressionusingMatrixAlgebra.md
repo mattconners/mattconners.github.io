@@ -106,15 +106,17 @@ $\left[\begin{array} {rrr}
 
 We can confirm that this gives us the sum of squared errors. Let's assume errors are (4, 6, 3).
 This equation results in a row vector  
-Y = \begin{bmatrix}
+$$Y = \begin{bmatrix}
 4 & 6 & 3
-\end{bmatrix}
+\end{bmatrix}$$
 multiplied by a column vector
 $$Y = \begin{bmatrix}
 4 \\
 6 \\
 3 \\
 \end{bmatrix}$$
+ Resulting in 4x4 + 6x6 + 3x3  which is what we want: the sum of the squared errors.
+
 
 Remember, that $\epsilon$ is equivalent to  $Y -X{\beta}$. Thus  
 $E^{\`}E  = (Y -X{\beta)}^{\`}(Y -X{\beta}) $   
