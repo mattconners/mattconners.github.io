@@ -53,9 +53,10 @@ y_n \\
 $$Y = \begin{bmatrix}
 1 ; x_1\\
 1 ; x_2\\  
-\vdots\\    
+\vdots ; \\    
 1 ; x_n \\
-\end{bmatrix}$$  This is an N x 2 matrix
+\end{bmatrix}$$  This is an N x 2 matrix. The column of 1s is for the intercept.    
+Note: if this were multivariate problem with k variables (x's), it would be a N X (1 + k) matrix
 
 
 
@@ -66,6 +67,8 @@ $X = \left[\begin{array} {rrr}
 1 &amp; x_n
 \end{array}\right]$  This is a N x 2 matrix. The column of 1s is for the intercept.    
 Note: if this were multivariate problem with k variables (x's), it would be a N X (1 + k) matrix
+
+
 
 $B = \left[\begin{array} {rrr}
 b_0\\
