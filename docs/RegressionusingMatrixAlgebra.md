@@ -58,23 +58,11 @@ $$Y = \begin{bmatrix}
 \end{bmatrix}$$  This is an N x 2 matrix. The column of 1s is for the intercept.    
 Note: if this were multivariate problem with k variables (x's), it would be a N X (1 + k) matrix
 
-
-
-$X = \left[\begin{array} {rrr}
-1 &amp; x_1\\
-1 &amp; x_2\\  
-\vdots\\    
-1 &amp; x_n
-\end{array}\right]$  This is a N x 2 matrix. The column of 1s is for the intercept.    
-Note: if this were multivariate problem with k variables (x's), it would be a N X (1 + k) matrix
-
-
 $$B = \begin{bmatrix}
 b_0\\
 b_1
 \end{bmatrix}$$   This is a 2 x 1 matrix  
 Note: if this were multivariate problem with k variables (x's), it would be a (1+k) X 1 matrix
-
 
 $$E = \begin{bmatrix}
 e_1\\
@@ -91,7 +79,7 @@ Y = XB
 
 #### Solve for B    
 Y = XB  
-First we put X into a square matrix. We can do that by multiplying by the transpose $X^`$ which gives us a 2x2 matrix     
+First we put X into a square matrix. We can do that by multiplying by the transpose $X^{\`}$ which gives us a 2x2 matrix     
 $X^` Y = (X^` X) B$    
 <br>Next, to isolate B we'll divide both sides by $(X^`{X})$ (this is the same as multiplying both sides by $(X^`{X})^{-1}$    
 $(X^`{X})^{-1} (X^`{Y}) = (X^`{X})^{-1} (X^` X) B$  
