@@ -53,7 +53,7 @@ y_n \\
 $$Y = \begin{bmatrix}
 1 ; x_1\\
 1 ; x_2\\  
-\vdots ; \\    
+\vdots \\    
 1 ; x_n \\
 \end{bmatrix}$$  This is an N x 2 matrix. The column of 1s is for the intercept.    
 Note: if this were multivariate problem with k variables (x's), it would be a N X (1 + k) matrix
@@ -69,20 +69,19 @@ $X = \left[\begin{array} {rrr}
 Note: if this were multivariate problem with k variables (x's), it would be a N X (1 + k) matrix
 
 
-
-$B = \left[\begin{array} {rrr}
+$$B = \begin{bmatrix}
 b_0\\
 b_1
-\end{array}\right]$  This is a 2 x 1 matrix  
+\end{bmatrix}$$   This is a 2 x 1 matrix  
 Note: if this were multivariate problem with k variables (x's), it would be a (1+k) X 1 matrix
 
 
-$E = \left[\begin{array} {rrr}
+$$E = \begin{bmatrix}
 e_1\\
 e_2\\  
 \vdots\\  
 e_n
-\end{array}\right]$  This is a N x 1 matrix  
+\end{bmatrix}$$   This is a N x 1 matrix  
 
 
 ### Matrix form of regression equation    
