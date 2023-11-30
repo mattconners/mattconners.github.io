@@ -50,9 +50,6 @@ y_2 \\
 y_n \\
 \end{bmatrix}
 
-$$Y = \begin{bmatrix}
-y_1 & y_2 & \cdots & y_n
-\end{bmatrix}$$
 
 $Y = \left[\begin{array}{rrr}
 y_1\\
