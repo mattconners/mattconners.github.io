@@ -116,7 +116,8 @@ $$E = \begin{bmatrix}
 
 
 Resulting in  $(4x4)$ + $(6x6)$ + $(3x3)$ = $4^2$ + $6^2$ + $3^2$.  This is what we want: the sum of the squared errors (SSE)
-$SSE = 16 +36 +9 = 61$.
+
+$$SSE = 16 +36 +9 = 61$$.
 
 Remember, that $\epsilon$ is equivalent to  $Y -X{\beta}$. Thus  
 $E^{\`}E  = (Y -X{\beta)}^{\`}(Y -X{\beta}) $   
