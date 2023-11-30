@@ -50,22 +50,13 @@ y_2 \\
 y_n \\
 \end{bmatrix}$$  This is an N x 1 matrix
 
+$$Y = \begin{bmatrix}
+1 &amp; x_1\\
+1 &amp; x_2\\  
+\vdots\\    
+1 &amp; x_n \\
+\end{bmatrix}$$  This is an N x 2 matrix
 
-$Y = \left[\begin{array}{rrr}
-y_1\\
-y_2\\  
-\vdots\\  
-y_n
-\end{array}\right]$  This is an N x 1 matrix
-
-$Y = \left[\begin{array}{rrr}
-y_1\\
-y_2\\  
-. . .\\  
-y_n
-\end{array}\right]$  This is an N x 1 matrix
-
-$Y = \left[\begin{array}{ccc} y_1 & y_2 & \cdots & y_n \end{array}\right]$
 
 
 $X = \left[\begin{array} {rrr}
