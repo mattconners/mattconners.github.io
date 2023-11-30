@@ -75,10 +75,10 @@ e_n
 ### Matrix form of regression equation    
 $Y = XB + \epsilon$    
 Regression assumes zero errors (ie some are positive some are negative and should average to zero), so we drop $\epsilon$  
-Y = XB  
+$Y = XB$  
 
 #### Solve for B    
-Y = XB  
+$Y = XB$ 
 First we put X into a square matrix. We can do that by multiplying by the transpose $X^{\`}$ which gives us a 2x2 matrix     
 $X^{\`} Y = (X^{\`} X) B$    
 <br>Next, to isolate B we'll divide both sides by $(X^{\`}{X})$ - this is the same as multiplying both sides by $(X^{\`}{X})^{-1}$    
@@ -98,7 +98,8 @@ To convert this formula to matrix notation we can take the vector of errors and 
 $SSE = E^`E$  
 
 We can confirm that this gives us the sum of squared errors. Let's assume errors are (4, 6, 3).
-This equation results in a row vector  
+This equation results in a row vector 
+
 $$Y = \begin{bmatrix}
 4 & 6 & 3
 \end{bmatrix}$$
@@ -110,6 +111,7 @@ $$Y = \begin{bmatrix}
 6 \\
 3 \\
 \end{bmatrix}$$
+
 
 Resulting in 4x4 + 6x6 + 3x3  which is what we want: the sum of the squared errors.
 
