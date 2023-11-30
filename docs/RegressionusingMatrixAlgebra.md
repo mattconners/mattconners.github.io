@@ -64,7 +64,7 @@ b_1
 \end{bmatrix}$$   This is a 2 x 1 matrix  
 Note: if this were multivariate problem with k variables (x's), it would be a (1+k) X 1 matrix
 
-$$E = \begin{bmatrix}
+$$\epsilon = \begin{bmatrix}
 e_1\\
 e_2\\  
 \vdots\\  
