@@ -96,26 +96,22 @@ $ SSE = \sum_{i=1}^{n}{e_i}^2$ is the forumula we are trying to minimize. We wan
 To convert this formula to matrix notation we can take the vector of errors and multiply it by the transpose.
 
 $SSE = E^`E$  
-We can confirm that this gives us the sum of squared errors. Let's assume errors are (4, 6, 3). This equation results in a row vector [4 6 3] multiplied by a column vector
-$\left[\begin{array} {rrr}
-4\\
-6\\  
-3
-\end{array}\right]$ Resulting in 4x4 + 6x6 + 3x3  which is what we want: the sum of the squared errors.
-
 
 We can confirm that this gives us the sum of squared errors. Let's assume errors are (4, 6, 3).
 This equation results in a row vector  
 $$Y = \begin{bmatrix}
 4 & 6 & 3
 \end{bmatrix}$$
+
 multiplied by a column vector
+
 $$Y = \begin{bmatrix}
 4 \\
 6 \\
 3 \\
 \end{bmatrix}$$
- Resulting in 4x4 + 6x6 + 3x3  which is what we want: the sum of the squared errors.
+
+Resulting in 4x4 + 6x6 + 3x3  which is what we want: the sum of the squared errors.
 
 
 Remember, that $\epsilon$ is equivalent to  $Y -X{\beta}$. Thus  
@@ -222,7 +218,7 @@ X <- matrix(c(rep(1, length(x)), c(x)), nrow = 9, ncol = 2);X
 
 
 ### Step 1: Calculate $(X^`{X})^{-1}$  
-From $\beta = (X^`{X})^{-1} (X^`{Y})$ calculate just the $(X^`{X})^{-1}$ part  
+From $\beta = (X^{\`}{X})^{-1} (X^{\`}{Y})$ calculate just the $(X^{\`}{X})^{-1}$ part  
 
 
 ```R
@@ -294,7 +290,7 @@ XTransXInv <- solve(XTransX); XTransXInv #inverse of X traspose times X
 
 
 ### Step 2:  Calculate $(X^`{Y})$  
-From $\beta = (X^`{X})^{-1} (X^`{Y})$ calculate just the $(X^`{Y})$ part   
+From $\beta = (X^{\`}{X})^{-1} (X^{\`}{Y})$ calculate just the $(X^{\`}{Y})$ part   
 
 
 ```R
@@ -311,7 +307,7 @@ XTransY <- XTrans %*% Y; XTransY
 
 
 
-### Step 3: Summarize: find $\beta$ coefficients $\beta = (X^`{X})^{-1} (X^`{Y})$  
+### Step 3: Summarize: find $\beta$ coefficients $\beta = (X^{\`}{X})^{-1} (X^{\`}{Y})$  
 multiply step 1 x step 2
 
 
