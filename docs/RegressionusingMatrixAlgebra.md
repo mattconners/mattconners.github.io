@@ -20,7 +20,7 @@ y <- c(170,221,264,308,444,540,388,677,711) #revenue
 for points $(x_1,y_1), (x_2,y_2)...(x_n,y_n)$  the least square regression line is:  
 $f(x)=\beta_0 + \beta_1x$
 
-The errors (also referred to as residuals) are the difference bdtween the actual quantity sold and the regression estimate of the quantity sold. They are    
+The errors (also referred to as residuals) are the difference between the actual quantity sold and the regression estimate of the quantity sold. They are    
 $e_i=y_i-f(x_i)$ 
 
 The $\beta$ coefficients are those values which minimize the sum of squared errors using the regression function f(x)  
@@ -50,7 +50,7 @@ y_2 \\
 y_n \\
 \end{bmatrix}$$  This is an N x 1 matrix
 
-$$Y = \begin{bmatrix}
+$$X = \begin{bmatrix}
 1 ; x_1\\
 1 ; x_2\\  
 \vdots \\    
@@ -81,9 +81,9 @@ Y = XB
 Y = XB  
 First we put X into a square matrix. We can do that by multiplying by the transpose $X^{\`}$ which gives us a 2x2 matrix     
 $X^{\`} Y = (X^{\`} X) B$    
-<br>Next, to isolate B we'll divide both sides by $(X^{\`}{X})$ (this is the same as multiplying both sides by $(X^{\`}{X})^{-1}$    
+<br>Next, to isolate B we'll divide both sides by $(X^{\`}{X})$ - this is the same as multiplying both sides by $(X^{\`}{X})^{-1}$    
 $(X^{\`}{X})^{-1} (X^{\`}{Y}) = (X^{\`}{X})^{-1} (X^{\`} X) B$  
-<br>Next, noting that a matrix multipled by its inverse is the Identity Matrix I we simplfy the equation to    
+<br>Next, noting that a matrix multipled by its inverse is the Identity Matrix  we simplfy the equation to    
 $(X^{\`}{X})^{-1} (X^{\`}{Y}) = IB$    
 <br>Finally, noting that any matrix multiplied by the identity matrix is itself. So IB = B. Therefore this simplifies to  
 $B = (X^{\`}{X})^{-1} (X^T{\`}{Y})$ 
@@ -102,6 +102,19 @@ $\left[\begin{array} {rrr}
 6\\  
 3
 \end{array}\right]$ Resulting in 4x4 + 6x6 + 3x3  which is what we want: the sum of the squared errors.
+
+
+We can confirm that this gives us the sum of squared errors. Let's assume errors are (4, 6, 3).
+This equation results in a row vector  
+Y = \begin{bmatrix}
+4 & 6 & 3
+\end{bmatrix}
+multiplied by a column vector
+$$Y = \begin{bmatrix}
+4 \\
+6 \\
+3 \\
+\end{bmatrix}$$
 
 Remember, that $\epsilon$ is equivalent to  $Y -X{\beta}$. Thus  
 $E^{\`}E  = (Y -X{\beta)}^{\`}(Y -X{\beta}) $   
