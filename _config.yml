@@ -5,9 +5,7 @@ description: Doing data science  - some technical learning resources
 kramdown:
   math_engine: mathjax
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-
