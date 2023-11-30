@@ -80,13 +80,13 @@ Y = XB
 #### Solve for B    
 Y = XB  
 First we put X into a square matrix. We can do that by multiplying by the transpose $X^{\`}$ which gives us a 2x2 matrix     
-$X^` Y = (X^` X) B$    
-<br>Next, to isolate B we'll divide both sides by $(X^`{X})$ (this is the same as multiplying both sides by $(X^`{X})^{-1}$    
-$(X^`{X})^{-1} (X^`{Y}) = (X^`{X})^{-1} (X^` X) B$  
+$X^{\`} Y = (X^{\`} X) B$    
+<br>Next, to isolate B we'll divide both sides by $(X^{\`}{X})$ (this is the same as multiplying both sides by $(X^{\`}{X})^{-1}$    
+$(X^{\`}{X})^{-1} (X^{\`}{Y}) = (X^{\`}{X})^{-1} (X^{\`} X) B$  
 <br>Next, noting that a matrix multipled by its inverse is the Identity Matrix I we simplfy the equation to    
-$(X^`{X})^{-1} (X^`{Y}) = IB$    
+$(X^{\`}{X})^{-1} (X^{\`}{Y}) = IB$    
 <br>Finally, noting that any matrix multiplied by the identity matrix is itself. So IB = B. Therefore this simplifies to  
-$B = (X^`{X})^{-1} (X^T`{Y})$ 
+$B = (X^{\`}{X})^{-1} (X^T{\`}{Y})$ 
  
 
 --- 
@@ -104,25 +104,25 @@ $\left[\begin{array} {rrr}
 \end{array}\right]$ Resulting in 4x4 + 6x6 + 3x3  which is what we want: the sum of the squared errors.
 
 Remember, that $\epsilon$ is equivalent to  $Y -X{\beta}$. Thus  
-$E^`E  = (Y -X{\beta)}^`(Y -X{\beta}) $   
+$E^{\`}E  = (Y -X{\beta)}^{\`}(Y -X{\beta}) $   
 <br> Next, multiply out.  
-$(Y^` - (X\beta)^`) (Y -X{\beta})$  
-$Y^`Y - (X\beta)^`Y - Y^`(X{\beta}) + (X\beta)^`X{\beta}$  
-$Y^`Y - 2YX^`\beta^` + X^`\beta^`(X\beta)$ 
+$(Y^{\`} - (X\beta)^{\`}) (Y -X{\beta})$  
+$Y^{\`}Y - (X\beta)^{\`}Y - Y^{\`}(X{\beta}) + (X\beta)^{\`}X{\beta}$  
+$Y^{\`}Y - 2YX^{\`}\beta^{\`} + X^{\`}\beta^{\`}(X\beta)$ 
 
 <br>We take the derivative with respect to b and set it to zero.  
-$-2X^`Y + 2X^`X\beta=0$    
-$-X^`Y + X^`X\beta=0$  
-$X^`X\beta =X^`Y$  
+$-2X^{\`}Y + 2X^{\`}X\beta=0$    
+$-X^{\`}Y + X^{\`}X\beta=0$  
+$X^{\`}X\beta =X^{\`}Y$  
 #### Solve for $\beta$  
-isolate $\beta$ by dividing both sides by $(X^`X)$. Note, this is the same as multiplying by $(X^`X)^{-1}$  
-$(X^`X)^{-1}(X^`X)\beta = (X^`X)^{-1}(X^`Y)$  
-$\beta = (X^`{X})^{-1} (X^`{Y})$ 
+isolate $\beta$ by dividing both sides by $(X^{\`}X)$. Note, this is the same as multiplying by $(X^{\`}X)^{-1}$  
+$(X^{\`}X)^{-1}(X^{\`}X)\beta = (X^{\`}X)^{-1}(X^{\`}Y)$  
+$\beta = (X^{\`}{X})^{-1} (X^{\`}{Y})$ 
 
 ## Find $\beta$ coefficients using matrix algebra from our sample data
 
 
-$\beta = (X^`{X})^{-1} (X^`{Y})$ is our regression equation 
+$\beta = (X^{\`}{X})^{-1} (X^{\`}{Y})$ is our regression equation 
 
 Recall our sample data for sales and prices  
 y = the number of units sold  
