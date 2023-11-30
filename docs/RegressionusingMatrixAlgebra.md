@@ -48,7 +48,7 @@ y_1 \\
 y_2 \\
 \vdots \\
 y_n \\
-\end{bmatrix}$$
+\end{bmatrix}$$  This is an N x 1 matrix
 
 
 $Y = \left[\begin{array}{rrr}
