@@ -95,12 +95,12 @@ $ SSE = \sum_{i=1}^{n}{e_i}^2$ is the forumula we are trying to minimize. We wan
 
 To convert this formula to matrix notation we can take the vector of errors and multiply it by the transpose.
 
-$SSE = E^'E$  
-E is a column vector of the residuals, and $E′$ is the transpose of $E$
-The expression $E′E$ represents the matrix multiplication of $E′$ and $E$, which results in a scalar value that represents the sum of the squared errors.
+$SSE = E^{'}E$  
+E is a column vector of the residuals, and $E{'}$ is the transpose of $E$.
+The expression $E{'}E$ represents the matrix multiplication of $E{'}$ and $E$, which results in a scalar value that represents the sum of the squared errors.
 
-We can confirm that this gives us the sum of squared errors. Let's assume errors are (4, 6, 3).
-This equation results in a row vector 
+We can confirm that this gives us the sum of squared errors. Let's assume errors are (4, 6, 3) from a given regression equqtion with $\beta$.
+This $SSE# equation results in the row vector of errors (the transpose) multiplied by the column vector of errors
 
 $$E^{`} = \begin{bmatrix}
 4 & 6 & 3
@@ -116,7 +116,8 @@ $$E = \begin{bmatrix}
 
 
 Resulting in  (4x4) + (6x6) + (3x3).  This is what we want: the sum of the squared errors (SSE)
-The SSE = 61
+The SSE = 61.
+There is no value of $\beta$ that produces a sum of squared errors that is less than 61.
 
 Remember, that $\epsilon$ is equivalent to  $Y -X{\beta}$. Thus  
 $E^{\`}E  = (Y -X{\beta)}^{\`}(Y -X{\beta}) $   
