@@ -95,18 +95,20 @@ $ SSE = \sum_{i=1}^{n}{e_i}^2$ is the forumula we are trying to minimize. We wan
 
 To convert this formula to matrix notation we can take the vector of errors and multiply it by the transpose.
 
-$SSE = E^`E$  
+$SSE = E^'E$  
+E is a column vector of the residuals, and $E′$ is the transpose of $E$
+The expression $E′E$ represents the matrix multiplication of $E′$ and $E$, which results in a scalar value that represents the sum of the squared errors.
 
 We can confirm that this gives us the sum of squared errors. Let's assume errors are (4, 6, 3).
 This equation results in a row vector 
 
-$$Y = \begin{bmatrix}
+$$E^{`} = \begin{bmatrix}
 4 & 6 & 3
 \end{bmatrix}$$    Row vector
 
 multiplied by a column vector
 
-$$Y = \begin{bmatrix}
+$$E = \begin{bmatrix}
 4 \\
 6 \\
 3 \\
