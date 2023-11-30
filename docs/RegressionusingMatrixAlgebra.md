@@ -102,7 +102,7 @@ This equation results in a row vector
 
 $$Y = \begin{bmatrix}
 4 & 6 & 3
-\end{bmatrix}$$   Row vector
+\end{bmatrix}$$    
 
 multiplied by a column vector
 
